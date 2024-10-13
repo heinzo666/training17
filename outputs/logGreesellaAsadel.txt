@@ -1,0 +1,8 @@
+Git pull failed.
+From https://github.com/heinzo666/training
+   f18b735..a8ed1c3  main       -> origin/main
+error: The following untracked working tree files would be overwritten by merge:
+	outputs/H241013_0208290.png
+	outputs/H241013_0208291.png
+Please move or remove them before you merge.
+Aborting

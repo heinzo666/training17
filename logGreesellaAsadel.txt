@@ -1,0 +1,5 @@
+Git pull failed.
+error: Your local changes to the following files would be overwritten by merge:
+	outputs/H241013_0208291.png
+Please commit your changes or stash them before you merge.
+Aborting
